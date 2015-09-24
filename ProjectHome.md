@@ -1,0 +1,1 @@
+RawMeat is a quick data quality assessment tool designed for mass spectrometrists and bioinformaticists using Thermo instruments. Get almost instant access to charge distributions, spray current, target fill times, and other useful statistics.
